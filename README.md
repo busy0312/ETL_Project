@@ -3,9 +3,7 @@
 
 
 [Technical Report](https://docs.google.com/document/d/1v-9s4ZmyNWailCZoIIQGY7ARb8f-inGpmFLFwSnVG2c/edit)
-
 [Presentation](https://docs.google.com/presentation/d/1sP-yhW9Kw_lxldvLqbLi0Xty_LsXTEvkEL4B6liR4ok/edit?usp=sharing)
-
 
 
 #### Introduction
@@ -19,8 +17,9 @@ Two datasets on Hate Crime were chosen; one from the Federal Bureau of Investiga
 According to the FBI’s Crime Data Explorer, the Hate Crime datasets provide annual statistics on the number of incidents, offenses, victims, offenders, locations that are motivated by the offender’s bias against the victim’s perceived race, gender, religion, disability, ethnicity, or sexual orientation. 
 
 Data Sources used for this project:
-* National - CSV File: https://crime-data-explorer.fr.cloud.gov/downloads-and-docs
-* Austin Local - CSV File: https://data.austintexas.gov/browse?q=hate%20crime&sortBy=relevance
+
+[National - CSV File](https://crime-data-explorer.fr.cloud.gov/downloads-and-docs)
+[Austin Local - CSV File](https://data.austintexas.gov/browse?q=hate%20crime&sortBy=relevance)
 
 #### Transform
 (for more detail, see technical report)
