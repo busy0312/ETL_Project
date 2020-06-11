@@ -19,6 +19,7 @@ According to the FBI’s Crime Data Explorer, the Hate Crime datasets provide an
 Data Sources used for this project:
 
 [National - CSV File](https://crime-data-explorer.fr.cloud.gov/downloads-and-docs)
+
 [Austin Local - CSV File](https://data.austintexas.gov/browse?q=hate%20crime&sortBy=relevance)
 
 #### Transform
