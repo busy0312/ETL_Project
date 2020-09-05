@@ -1,4 +1,4 @@
-# ETL-Project
+# ETL
 ### Team Members: Gina Cameras, Abby Ko, Wendy Meyer, Veronica Ratcliff 
 
 
